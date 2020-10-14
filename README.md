@@ -4,6 +4,7 @@
     - быстрое определение предков
     - поиск компонент сильной связности
     - поиск мостов и точек сочленения
+
 - 17.10. Разбор `B`, `C`, `D`, `H` из первого контеста
 
 #### Олимпиады
@@ -39,10 +40,11 @@
 
 # Программа
 
-1. 03.10. Тренировочный контест
+- 03.10. Тренировочный контест
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/297689)
     - задачи на темы C-B'
-2. 10.10. Сложность алгоритмов, dfs
+
+- 10.10. Сложность алгоритмов, dfs
     - [лекция](https://www.youtube.com/watch?v=8BniwdaAUMc) по оценке сложности
     - [лекция](https://www.youtube.com/watch?v=RPIE0lXAIv4) и [wiki-конспекты](http://neerc.ifmo.ru/wiki/index.php?title=Обход_в_глубину,_цвета_вершин) по dfs
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)

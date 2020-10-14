@@ -48,3 +48,4 @@
     - [лекция](https://www.youtube.com/watch?v=8BniwdaAUMc) по оценке сложности
     - [лекция](https://www.youtube.com/watch?v=RPIE0lXAIv4) и [wiki-конспекты](http://neerc.ifmo.ru/wiki/index.php?title=Обход_в_глубину,_цвета_вершин) по dfs
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)
+    - [код](sources/c01dfs) &ndash; материалы из репозитория

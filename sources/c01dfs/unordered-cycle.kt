@@ -5,7 +5,7 @@ import utils.times
 /**
  * Функция для поиска цикла в неориентированном графе
  *
- * @param graph: принимает на вход граф в виде списка ребер
+ * @param graph: граф в виде списка ребер
  * @see [Graph]: Graph - то же самое, что и List<List<Int>>, или vector<vector<int>> в C++
  */
 fun unorderedCycle(graph: Graph) {

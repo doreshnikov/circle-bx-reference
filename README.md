@@ -9,7 +9,7 @@
 #### Олимпиады
 
 - [Список](https://clist.by) (неполный) ближайших олимпиад и не только
-
+---
 
 - 18.10. [первая командная интернет-олимпиада](https://neerc.ifmo.ru/school/io)
 - 15.11. [СПбКОШП](https://neerc.ifmo.ru/school/russia-team)
@@ -32,7 +32,7 @@
 - [neerc wiki](https://neerc.itmo.ru/wiki) &ndash; более подробная теория
 - [cppreference](https://ru.cppreference.com) &ndash; документация по C++
     - [std::vector](https://ru.cppreference.com/w/cpp/container/vector)
-
+---
 
 - [лекции](https://www.youtube.com/user/pavelmavrin) от Паши Маврина
 - довольно старые [лекции](https://www.youtube.com/playlist?list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM) от Андрея Станкевича

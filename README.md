@@ -12,7 +12,9 @@
 - [Список](https://clist.by) (неполный) ближайших олимпиад и не только
 ---
 
-- 18.10. [первая командная интернет-олимпиада](https://neerc.ifmo.ru/school/io)
+- 18.10. 
+    - [первая командная интернет-олимпиада](https://neerc.ifmo.ru/school/io) или
+    - [отборочный этап Всесибирской олимпиады](https://sesc.nsu.ru/olymp-vsesib)
 - 15.11. [СПбКОШП](https://neerc.ifmo.ru/school/russia-team)
 
 # Информация

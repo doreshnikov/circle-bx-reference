@@ -48,6 +48,15 @@
 
 - 10.10. Сложность алгоритмов, dfs
     - [лекция](https://www.youtube.com/watch?v=8BniwdaAUMc) по оценке сложности
-    - [лекция](https://www.youtube.com/watch?v=RPIE0lXAIv4) и [wiki-конспекты](http://neerc.ifmo.ru/wiki/index.php?title=Обход_в_глубину,_цвета_вершин) по dfs
+    - [лекция](https://www.youtube.com/watch?v=RPIE0lXAIv4)
+    - [wiki-конспекты (dfs)](http://neerc.ifmo.ru/wiki/index.php?title=Обход_в_глубину,_цвета_вершин) и [wiki-конспекты (поиск цикла)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_цикла)
+    - [e-maxx (поиск цикла)](http://e-maxx.ru/algo/finding_cycle)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)
     - [код](sources/c01dfs) &ndash; материалы из репозитория
+
+- 17.10. Продвинутый dfs
+    - [лекция](https://youtu.be/8jECFHUoohs) по компонентам сильной связности
+    - [лекция](https://youtu.be/ouK3FBRaJJA) по мостам и точкам сочленения
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)
+    - [wiki-конспекты (ксс)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_компонент_сильной_связности) и [wiki-конспекты (мосты)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_мостов), [wiki-конспекты (компоненты двусвязности)](http://neerc.ifmo.ru/wiki/index.php?title=Построение_компонент_рёберной_двусвязности)
+    - [e-maxx (ксс)](https://e-maxx.ru/algo/strong_connected_components) и [e-maxx (мосты)](https://e-maxx.ru/algo/bridge_searching)

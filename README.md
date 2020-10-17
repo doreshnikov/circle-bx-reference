@@ -1,10 +1,5 @@
 # Ближайшие события
 
-- 17.10. Лекция \[Продвинутые применения dfs\]
-    - быстрое определение предков
-    - поиск компонент сильной связности
-    - поиск мостов и точек сочленения
-
 - 17.10. Разбор `B`, `C`, `D`, `H` из первого контеста
 
 #### Олимпиады
@@ -57,6 +52,6 @@
 - 17.10. Продвинутый dfs
     - [лекция](https://youtu.be/8jECFHUoohs) по компонентам сильной связности
     - [лекция](https://youtu.be/ouK3FBRaJJA) по мостам и точкам сочленения
-    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)
     - [wiki-конспекты (ксс)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_компонент_сильной_связности) и [wiki-конспекты (мосты)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_мостов), [wiki-конспекты (компоненты двусвязности)](http://neerc.ifmo.ru/wiki/index.php?title=Построение_компонент_рёберной_двусвязности)
     - [e-maxx (ксс)](https://e-maxx.ru/algo/strong_connected_components) и [e-maxx (мосты)](https://e-maxx.ru/algo/bridge_searching)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)

@@ -1,10 +1,6 @@
 # Ближайшие события
 
-- 31.10. Лекция \[LCA, LA\]
-    - прочитаем что-нибудь из дополнительных тем
-    - занятие пройдет **дистанционно**, добавьтесь на наш [дискорд-сервер](https://discord.gg/GnETVf9)
-
-- 07.11. Лекция \[?\]
+- 07.11. Лекция \[LCA, LA\]
     - занятие пройдет **дистанционно**
 
 #### Олимпиады
@@ -24,6 +20,7 @@
 #### Важные ссылки
 
 - [Чат в телеграме](https://t.me/itmo_bx)
+- [Дискорд-сервер](https://discord.gg/GnETVf9)
 - [Анкета по материалу](https://forms.gle/NsGiJbbwHd2uu34v9)
 - [Группа на codeforces](https://itmobx.contest.codeforces.com)
 
@@ -44,6 +41,15 @@
     - тут будет ссылка, если я сделаю электронную версию
 
 # Программа
+
+- 31.10. Дерево отрезков
+    - [лекция 1](https://youtu.be/PHL6gHLfBs8) и [лекция 2](https://youtu.be/NJB05K1M7oE)
+    - [тут](#) будет запись нашей лекции
+    - wiki-конспекты:
+        - [основы](http://neerc.ifmo.ru/wiki/index.php?title=Дерево_отрезков._Построение)
+        - [реализация](http://neerc.ifmo.ru/wiki/index.php?title=Реализация_запроса_в_дереве_отрезков_сверху)
+        - [несогласованные операции](http://neerc.ifmo.ru/wiki/index.php?title=Несогласованные_поддеревья._Реализация_массового_обновления)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/301759)
 
 - 24.10. Первая командная ИО (тренировка)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/300742)

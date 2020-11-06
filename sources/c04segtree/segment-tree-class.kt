@@ -241,8 +241,10 @@ sealed class Node(val l: Int, val r: Int) {
     fun getMaximum(from: Int, to: Int): Long = when {
         to <= l || from >= r -> Long.MIN_VALUE // если [from, to) не пересекается с текущим отрезком, максимума нет
         from <= l && to >= r -> trueMaximum()  // если [from, to) содержит текущий отрезок, то максимум на нем известен
-        this is Segment ->                     // иначе берем максимум из максимумов в детях
+        this is Segment -> {                   // иначе берем максимум из максимумов в детях
+            push()
             max(left.getMaximum(from, to), right.getMaximum(from, to))
+        }
         else -> fail()
     }
 
@@ -253,8 +255,10 @@ sealed class Node(val l: Int, val r: Int) {
     fun getSum(from: Int, to: Int): Long = when {
         to <= l || from >= r -> 0         // если [from, to) не пересекается с текущим отрезком, сумма 0
         from <= l && to >= r -> trueSum() // если [from, to) содержит текущий отрезок, то сумма на нем известна
-        this is Segment ->                // иначе берем сумму сумм в детях
+        this is Segment -> {              // иначе берем сумму сумм в детях
+            push()
             left.getSum(from, to) + right.getSum(from, to)
+        }
         else -> fail()
     }
 

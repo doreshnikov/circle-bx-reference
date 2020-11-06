@@ -161,7 +161,7 @@ sealed class Node(val l: Int, val r: Int) {
          * Функция [relax] служит для обновления значений в данном отрезке через детей
          * вершины, то есть через левую и правую половины отрезка
          */
-        private fun relax() {
+        internal fun relax() {
             maximum = max(left.trueMaximum(), right.trueMaximum())
             sum = left.trueSum() + right.trueSum()
         }
@@ -268,8 +268,10 @@ sealed class Node(val l: Int, val r: Int) {
             to <= l || from >= r -> return // если [from, to) не пересекается с текущим отрезком, не делаем ничего
             from <= l && to >= r -> add(x) // если [from, to) содержит текущий отрезок, то делаем локальный `add`
             this is Segment -> {           // иначе обновляем детей
+                push()
                 left.add(from, to, x)
                 right.add(from, to, x)
+                relax()
             }
         }
     }
@@ -284,8 +286,10 @@ sealed class Node(val l: Int, val r: Int) {
             to <= l || from >= r -> return // если [from, to) не пересекается с текущим отрезком, не делаем ничего
             from <= l && to >= r -> set(x) // если [from, to) содержит текущий отрезок, то делаем локальный `set`
             this is Segment -> {           // иначе обновляем детей
+                push()
                 left.set(from, to, x)
                 right.set(from, to, x)
+                relax()
             }
         }
     }

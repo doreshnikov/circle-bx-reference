@@ -1,15 +1,16 @@
 # Ближайшие события
 
-- 07.11. Лекция \[LCA, LA\]
-    - занятие пройдет **дистанционно**
+- 28.11. Продвинутое динамическое программирование
+    - НОП, НВП
+    - ДП по подотрезкам и поддеревьям
 
 #### Олимпиады
 
 - [Список](https://clist.by) (неполный) ближайших олимпиад и не только
 ---
 
-- 08.11. [третья командная интернет-олимпиада](https://neerc.ifmo.ru/school/io)
-- 15.11. [СПбКОШП](https://neerc.ifmo.ru/school/russia-team)
+- **Начался заочный этап Открытой Олимпиады** &ndash; [ссылка](https://olympiads.ru/zaoch/)
+- 28.11. Четвертая командная ИО
 
 # Информация
 
@@ -38,26 +39,56 @@
 #### Разборы
 
 - 24.10. Разбор `B`, `C`, `D`, `H` из первого контеста
-    - тут будет ссылка, если я сделаю электронную версию
 
 # Программа
 
+- 14.11 и 21.11. Динамическое программирование
+    - сложная [лекция](https://youtu.be/CpJteiK68XA) от Паши Маврина о временной сложности
+    - [лекция 1](https://youtu.be/q_n2vzVNXE4) и [лекция 2](https://www.youtube.com/watch?v=skEkTaAy8Ek) от Паши Маврина (классические задачи)
+    - [лекция](https://www.youtube.com/watch?v=6XHWHnvBiu4) от Паши Маврина (рюкзак)
+    - [запись нашей лекции 1](https://www.youtube.com/watch?v=S9meJ_q1yK8) и [запись нашей лекции 2 (будет тут позже)](#)
+    - wiki-конспекты:
+        - [основы](http://neerc.ifmo.ru/wiki/index.php?title=Динамическое_программирование)
+        - [задача о рюкзаке](http://neerc.ifmo.ru/wiki/index.php?title=Задача_о_рюкзаке)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/303743)
+
+- 14.11. LCA, Sparse Table и LA
+    - [лекция](https://www.youtube.com/watch?v=C7oVQ9vsVDY) от Паши Маврина (LCA - двоичные подъемы, LCA - RMQ)
+    - [запись нашей лекции](https://www.youtube.com/watch?v=S9meJ_q1yK8)
+    - мой [краткий обзор](resources/level-ancestor.pdf) на LA
+    - wiki-конспекты:
+         - [сведение LCA к RMQ](http://neerc.ifmo.ru/wiki/index.php?title=Сведение_задачи_LCA_к_задаче_RMQ)
+         - [разреженная таблица](http://neerc.ifmo.ru/wiki/index.php?title=Решение_RMQ_с_помощью_разреженной_таблицы)
+         - [задача о подъеме](http://neerc.ifmo.ru/wiki/index.php?title=Level_Ancestor_problem)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/304613)
+
+- 07.11. LCA и DSU
+    - [лекция](https://www.youtube.com/watch?v=C7oVQ9vsVDY) от Паши Маврина (LCA - двоичные подъемы, LCA - RMQ)
+    - [лекция](https://www.youtube.com/watch?v=n4YTYuvaI3Q) от Паши Маврина (система непересекающихся множеств)
+    - [запись нашей лекции](https://www.youtube.com/watch?v=OTpFrtJ25EM)
+    - wiki-конспекты:
+        - [двоичные подъемы](http://neerc.ifmo.ru/wiki/index.php?title=Метод_двоичного_подъёма)
+        - [алгоритм Тарьяна](http://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Тарьяна_поиска_LCA_за_O(1)_в_оффлайн)
+    - [e-maxx (Тарьян)](https://e-maxx.ru/algo/lca_linear_offline)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/304613)
+
 - 31.10. Дерево отрезков
-    - [лекция 1](https://youtu.be/PHL6gHLfBs8) и [лекция 2](https://youtu.be/NJB05K1M7oE)
-    - [тут](#) будет запись нашей лекции
+    - [лекция 1](https://youtu.be/PHL6gHLfBs8) и [лекция 2](https://youtu.be/NJB05K1M7oE) от Паши Маврина
+    - [запись нашей лекции](https://www.youtube.com/watch?v=9paWgOtP1zo)
     - wiki-конспекты:
         - [основы](http://neerc.ifmo.ru/wiki/index.php?title=Дерево_отрезков._Построение)
         - [реализация](http://neerc.ifmo.ru/wiki/index.php?title=Реализация_запроса_в_дереве_отрезков_сверху)
-        - [несогласованные операции](http://neerc.ifmo.ru/wiki/index.php?title=Несогласованные_поддеревья._Реализация_массового_обновления)
+        - [несогласованные операции (push)](http://neerc.ifmo.ru/wiki/index.php?title=Несогласованные_поддеревья._Реализация_массового_обновления)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/301759)
+    - [код](sources/c04segtree) &ndash; материалы из репозитория
 
 - 24.10. Первая командная ИО (тренировка)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/300742)
     - [разбор](https://neerc.ifmo.ru/school/io/2020-2021.html)
 
 - 17.10. Продвинутый dfs
-    - [лекция](https://youtu.be/8jECFHUoohs) по компонентам сильной связности
-    - [лекция](https://youtu.be/ouK3FBRaJJA) по мостам и точкам сочленения
+    - [лекция](https://youtu.be/8jECFHUoohs) от Паши Маврина (компоненты сильной связности)
+    - [лекция](https://youtu.be/ouK3FBRaJJA) от Паши Маврина (мосты и точки сочленения)
     - [wiki-конспекты (ксс)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_компонент_сильной_связности) и [wiki-конспекты (мосты)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_мостов), [wiki-конспекты (компоненты двусвязности)](http://neerc.ifmo.ru/wiki/index.php?title=Построение_компонент_рёберной_двусвязности)
     - [e-maxx (ксс)](https://e-maxx.ru/algo/strong_connected_components) и [e-maxx (мосты)](https://e-maxx.ru/algo/bridge_searching)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)

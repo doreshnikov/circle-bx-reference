@@ -66,9 +66,12 @@
     - [лекция](https://www.youtube.com/watch?v=C7oVQ9vsVDY) от Паши Маврина (LCA - двоичные подъемы, LCA - RMQ)
     - [лекция](https://www.youtube.com/watch?v=n4YTYuvaI3Q) от Паши Маврина (система непересекающихся множеств)
     - [запись нашей лекции](https://www.youtube.com/watch?v=OTpFrtJ25EM)
-    - wiki-конспекты:
+    - wiki-конспекты (LCA):
         - [двоичные подъемы](http://neerc.ifmo.ru/wiki/index.php?title=Метод_двоичного_подъёма)
         - [алгоритм Тарьяна](http://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Тарьяна_поиска_LCA_за_O(1)_в_оффлайн)
+    - wiki-конспекты (DSU):
+        - [идея](http://neerc.ifmo.ru/wiki/index.php?title=СНМ_(наивные_реализации))
+        - [быстрая реализация](http://neerc.ifmo.ru/wiki/index.php?title=СНМ_(реализация_с_помощью_леса_корневых_деревьев))
     - [e-maxx (Тарьян)](https://e-maxx.ru/algo/lca_linear_offline)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/304613)
 
@@ -86,16 +89,16 @@
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/300742)
     - [разбор](https://neerc.ifmo.ru/school/io/2020-2021.html)
 
-- 17.10. Продвинутый dfs
+- 17.10. Продвинутый DFS
     - [лекция](https://youtu.be/8jECFHUoohs) от Паши Маврина (компоненты сильной связности)
     - [лекция](https://youtu.be/ouK3FBRaJJA) от Паши Маврина (мосты и точки сочленения)
     - [wiki-конспекты (ксс)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_компонент_сильной_связности) и [wiki-конспекты (мосты)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_мостов), [wiki-конспекты (компоненты двусвязности)](http://neerc.ifmo.ru/wiki/index.php?title=Построение_компонент_рёберной_двусвязности)
     - [e-maxx (ксс)](https://e-maxx.ru/algo/strong_connected_components) и [e-maxx (мосты)](https://e-maxx.ru/algo/bridge_searching)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)
 
-- 10.10. Сложность алгоритмов, dfs
+- 10.10. Сложность алгоритмов, DFS
     - [лекция](https://www.youtube.com/watch?v=8BniwdaAUMc) по оценке сложности
-    - [лекция](https://www.youtube.com/watch?v=RPIE0lXAIv4) по dfs, времени входа\выхода и топологической сортировке
+    - [лекция](https://www.youtube.com/watch?v=RPIE0lXAIv4) по DFS, времени входа\выхода и топологической сортировке
     - [wiki-конспекты (dfs)](http://neerc.ifmo.ru/wiki/index.php?title=Обход_в_глубину,_цвета_вершин) и [wiki-конспекты (поиск цикла)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_цикла)
     - [e-maxx (поиск цикла)](http://e-maxx.ru/algo/finding_cycle)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)

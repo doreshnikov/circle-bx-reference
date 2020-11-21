@@ -52,6 +52,7 @@
         - [задача о рюкзаке](http://neerc.ifmo.ru/wiki/index.php?title=Задача_о_рюкзаке)
         - [задача о редакционном расстоянии](http://neerc.ifmo.ru/wiki/index.php?title=Задача_о_редакционном_расстоянии,_алгоритм_Вагнера-Фишера)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/303743)
+    - [код](sources/c07dp/edit-distance.kt) &ndash; материалы из репозитория
 
 - 14.11. LCA, Sparse Table и LA
     - [лекция](https://www.youtube.com/watch?v=C7oVQ9vsVDY) от Паши Маврина (LCA - двоичные подъемы, LCA - RMQ)

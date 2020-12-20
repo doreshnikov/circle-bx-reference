@@ -1,8 +1,6 @@
 # Ближайшие события
 
-- 28.11. Продвинутое динамическое программирование
-    - НОП, НВП
-    - ДП по подотрезкам и поддеревьям
+- 27.12. Новогодний контест? + разбор
 
 #### Олимпиады
 
@@ -38,9 +36,47 @@
 
 #### Разборы
 
+- 27.12. **Большой разбор**
+
 - 24.10. Разбор `B`, `C`, `D`, `H` из первого контеста
 
 # Программа
+
+- 19.12. Сканирующая прямая
+    - [запись нашей лекции](https://youtu.be/D50KwNw5REg)
+    - [какая-то короткая статья](https://algorithmica.org/tg/scanline)
+    - [wikipedia](http://ru.wikipedia.org/wiki/Алгоритм_заметающей_прямой)
+    - способы использования в задачах:
+        - [алгоритм Бентли-Олдмана](http://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Бентли-Оттмана)
+        - [еще пара ссылок](https://acm.khpnets.info/wiki/Сканирующая_прямая)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/308650)
+
+- 12.12. Тренировочные контесты
+    - [мешап уровня районных туров](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/306758)
+    - [регион 2016-2017, день 1](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/307631)
+    - [регион 2016-2017, день 2](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/307632)
+
+- 05.12. Кратчайшие пути во взвешенных графах
+    - [лекция](https://www.youtube.com/watch?v=XSJLN99Nx2k) от Паши Маврина по bfs и алгоритму Дейкстры
+    - [лекция](https://www.youtube.com/watch?v=gs2Zm4XeXX8) от Паши Маврина по алгоритмам Флойда и Форда-Беллмана
+    - [запись нашей лекции](https://youtu.be/9znpC2zVQd4)
+    - wiki-конспекты
+        - [алгоритм Дейкстры](http://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Дейкстры)
+        - для дополнительного развития &ndash; [алгоритм Джонсона](http://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Джонсона)
+        - [алгоритм Флойда](http://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Флойда)
+        - [алгоритм Форда-Беллмана](http://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Форда-Беллмана)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/306638)
+
+- 05.12. Динамическое программирование по подотрезкам и подмаскам
+    - [лекция](https://www.youtube.com/watch?v=kChYjIr-R94) от Паши Маврина
+    - [запись нашей лекции](https://youtu.be/9znpC2zVQd4)
+    - [обзорная статья](https://notes.algoprog.ru/dynprog/05_6_dptypes.html) по типам динамики
+    - [статья на хабре](https://habr.com/ru/post/112386/) про динамику по подотрезкам
+    - [обзорная статья](https://brestprog.by/topics/bitmasks/) про работу с битовыми масками
+    - [e-maxx (перебор подмасок за 3^n)](https://e-maxx.ru/algo/all_submasks)
+
+- 28.11. Тренировка (заочный этап Открытой олимпиады 2016-2017)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/263692)
 
 - 14.11 и 21.11. Динамическое программирование
     - сложная [лекция](https://youtu.be/CpJteiK68XA) от Паши Маврина о временной сложности

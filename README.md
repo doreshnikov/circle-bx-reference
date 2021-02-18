@@ -1,20 +1,23 @@
 # Ближайшие события
 
-- 27.12. Новогодний контест? + разбор
+- 20.02. **Очное занятие**
+    - все еще будет запись (видимо)
+    - продолжаем разбор
+    - тема лекции станет известна позже
+
+---
 
 #### Олимпиады
 
 - [Список](https://clist.by) (неполный) ближайших олимпиад и не только
----
-
-- **Начался заочный этап Открытой Олимпиады** &ndash; [ссылка](https://olympiads.ru/zaoch/)
-- 28.11. Четвертая командная ИО
+- Часто по субботам проходит **личная** интернет-олимпиада
+    - ближайшая будет 27.02 в 15:00, это **второй отбор на ИОИП**, так что имеет смысл поучаствовать
+    - попробуем придумать что-нибудь, чтобы она не перекрывалась с кружком
+    - информация [здесь](https://neerc.ifmo.ru/school/io/)
 
 # Информация
 
-В какой-то момент, скорее всего, все материалы будут в нормальном виде залиты на 
-[Github Pages](https://pages.github.com/), до тех пор они будут находиться в этом файле и в 
-[sources](sources) репозитория.
+В этом файле собраны все ссылки на материалы по курсу. Имеющийся код по некоторым темам можно найти в [sources](sources) репозитория.
 
 #### Важные ссылки
 
@@ -29,6 +32,7 @@
 - [neerc wiki](https://neerc.itmo.ru/wiki) &ndash; более подробная теория
 - [cppreference](https://ru.cppreference.com) &ndash; документация по C++
     - [std::vector](https://ru.cppreference.com/w/cpp/container/vector)
+
 ---
 
 - [лекции](https://www.youtube.com/user/pavelmavrin) от Паши Маврина
@@ -36,11 +40,54 @@
 
 #### Разборы
 
-- 27.12. **Большой разбор**
-
-- 24.10. Разбор `B`, `C`, `D`, `H` из первого контеста
+- 13.02. Разбор Дейкстры и prefix-функции
+    - [запись](https://youtu.be/ce3vukgJ_0g)
 
 # Программа
+
+- 06.02 и 13.02. Базовые алгоритмы на строках
+    - [лекция](https://youtu.be/bH45DuZjBWw) от Паши Маврина по хешам и префикс-функции
+    - [лекция](https://youtu.be/2a97V_4if18) от Паши Маврина по z-функции и бору
+    - [запись нашей лекции](https://youtu.be/EHj1JtdXqZI) по префикс-функции и z-функции
+        - **все после 37-й минуты безвозвратно утеряно**, так что смотрите Пашину лекцию
+    - [запись нашей лекции](https://youtu.be/hai5iY0CT9Q) по хешам
+    - wiki-конспекты:
+        - [префикс-функция](https://neerc.ifmo.ru/wiki/index.php?title=Префикс-функция)
+        - [z-функция](https://neerc.ifmo.ru/wiki/index.php?title=Z-функция)
+        - [алгоритм Кнута-Морриса-Пратта](https://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Кнута-Морриса-Пратта)
+        - [полиномиальный хеш](https://neerc.ifmo.ru/wiki/index.php?title=Поиск_подстроки_в_строке_с_использованием_хеширования._Алгоритм_Рабина-Карпа)
+    - для общего развития:
+        - [бор](http://neerc.ifmo.ru/wiki/index.php?title=Бор)
+        - [хеширование, хеш-таблицы](https://neerc.ifmo.ru/wiki/index.php?title=Хеш-таблица)
+        - сложный материал про [разрешение коллизий](https://neerc.ifmo.ru/wiki/index.php?title=Разрешение_коллизий) в хеш-таблицах
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/315473) на префикс-функцию и z-функцию
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/316365) на хеширование
+        - первые задачи не имеют прямого отношения к полиномиальному хешу и требуют только **(!)** умения использовать хеш-таблицы
+            - [unordered_set](https://ru.cppreference.com/w/cpp/container/unordered_set) и [unordered_map](https://ru.cppreference.com/w/cpp/container/unordered_map) в C++
+            - [set](https://docs.python.org/3/library/stdtypes.html?highlight=set#set) и [dict](https://docs.python.org/3/library/stdtypes.html?highlight=dict#dict) в Python
+            - [HashSet](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/util/HashSet.html) и [HashMap](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/util/HashMap.html) в Java
+
+- 30.01. Декартово дерево
+    - [лекция](https://youtu.be/gGatm5G1Iy8) от Паши Маврина по деревьям поиска
+    - [лекция](https://youtu.be/nXxQYQQEPwQ) от Паши Маврина по ДД
+    - [запись нашей лекции](https://youtu.be/K-DV85qTeg8)
+        - видимо, [расширенная запись](https://youtu.be/2V62dNm5lvg)
+    - статья на хабре &ndash; [часть 1](https://habr.com/ru/post/101818/) и [часть 2](https://habr.com/ru/post/102006/)
+    - wiki-конспекты:
+        - [декартово дерево](http://neerc.ifmo.ru/wiki/index.php?title=Декартово_дерево)
+        - [декартово дерево по неявному ключу](http://neerc.ifmo.ru/wiki/index.php?title=Декартово_дерево_по_неявному_ключу)
+    - более простой [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/314500) на деревья поиска
+    - более сложный [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/314487) на ДД
+        - задачи пересекаются, но в первом контесте больше простых
+
+- 10.01. Тренировка регионального этапа
+    - [регион 2017-1](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/307631) и [регион 2017-2](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/307632)
+    - [регион 2019](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/311621)
+    - [регион 2020](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/311622)
+
+- 26.12. Новогодний контест
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/309662)
+    - **кстати, напомните мне его разобрать, там прикольные таски есть**
 
 - 19.12. Сканирующая прямая
     - [запись нашей лекции](https://youtu.be/D50KwNw5REg)
@@ -130,14 +177,19 @@
 - 17.10. Продвинутый DFS
     - [лекция](https://youtu.be/8jECFHUoohs) от Паши Маврина (компоненты сильной связности)
     - [лекция](https://youtu.be/ouK3FBRaJJA) от Паши Маврина (мосты и точки сочленения)
-    - [wiki-конспекты (ксс)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_компонент_сильной_связности) и [wiki-конспекты (мосты)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_мостов), [wiki-конспекты (компоненты двусвязности)](http://neerc.ifmo.ru/wiki/index.php?title=Построение_компонент_рёберной_двусвязности)
+    - wiki-конспекты:
+        - [компоненты сильной связности](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_компонент_сильной_связности)
+        - [мосты](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_мостов)
+        - [компоненты двусвязности](http://neerc.ifmo.ru/wiki/index.php?title=Построение_компонент_рёберной_двусвязности)
     - [e-maxx (ксс)](https://e-maxx.ru/algo/strong_connected_components) и [e-maxx (мосты)](https://e-maxx.ru/algo/bridge_searching)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)
 
 - 10.10. Сложность алгоритмов, DFS
     - [лекция](https://www.youtube.com/watch?v=8BniwdaAUMc) по оценке сложности
-    - [лекция](https://www.youtube.com/watch?v=RPIE0lXAIv4) по DFS, времени входа\выхода и топологической сортировке
-    - [wiki-конспекты (dfs)](http://neerc.ifmo.ru/wiki/index.php?title=Обход_в_глубину,_цвета_вершин) и [wiki-конспекты (поиск цикла)](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_цикла)
+    - [лекция](https://www.youtube.com/watch?v=RPIE0lXAIv4) по DFS, времени входа/выхода и топологической сортировке
+    - wiki-конспекты:
+        - [dfs и его детали](http://neerc.ifmo.ru/wiki/index.php?title=Обход_в_глубину,_цвета_вершин)
+        - [поиск цикла](http://neerc.ifmo.ru/wiki/index.php?title=Использование_обхода_в_глубину_для_поиска_цикла)
     - [e-maxx (поиск цикла)](http://e-maxx.ru/algo/finding_cycle)
     - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/298573)
     - [код](sources/c01dfs) &ndash; материалы из репозитория

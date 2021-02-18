@@ -129,7 +129,7 @@
     - сложная [лекция](https://youtu.be/CpJteiK68XA) от Паши Маврина о временной сложности
     - [лекция 1](https://youtu.be/q_n2vzVNXE4) и [лекция 2](https://www.youtube.com/watch?v=skEkTaAy8Ek) от Паши Маврина (классические задачи)
     - [лекция](https://www.youtube.com/watch?v=6XHWHnvBiu4) от Паши Маврина (рюкзак)
-    - [запись нашей лекции 1](https://www.youtube.com/watch?v=S9meJ_q1yK8) и [запись нашей лекции 2 (будет тут позже)](#)
+    - [запись нашей лекции](https://www.youtube.com/watch?v=S9meJ_q1yK8)
     - wiki-конспекты:
         - [основы](http://neerc.ifmo.ru/wiki/index.php?title=Динамическое_программирование)
         - [задача о рюкзаке](http://neerc.ifmo.ru/wiki/index.php?title=Задача_о_рюкзаке)

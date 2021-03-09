@@ -47,8 +47,8 @@
 - 06.03. MST и повторение DSU
     - [лекция](https://youtu.be/n4YTYuvaI3Q) от Паши Маврина по DSU
     - [лекция](https://youtu.be/aKSyWOwl9cQ) от Паши Маврина по минимальным остовам
-    - [запись нашей лекции](https://youtu.be/uEaUmw0sDgo) по DSU
-    - [запись нашей лекции](https://youtu.be/r6Vv0oBHIHg) по минимальным остовам
+    - [запись нашей лекции](https://youtu.be/r6Vv0oBHIHg) по DSU
+    - [запись нашей лекции](https://youtu.be/uEaUmw0sDgo) по минимальным остовам
     - wiki-конспекты:
         - [DSU, идея](http://neerc.ifmo.ru/wiki/index.php?title=СНМ_(наивные_реализации))
         - [DSU, быстрая реализация](http://neerc.ifmo.ru/wiki/index.php?title=СНМ_(реализация_с_помощью_леса_корневых_деревьев))

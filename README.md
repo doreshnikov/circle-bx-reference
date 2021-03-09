@@ -42,8 +42,42 @@
 
 - 13.02. Разбор Дейкстры и prefix-функции
     - [запись](https://youtu.be/ce3vukgJ_0g)
+    
+- 20.02. Разбор какого-то количества ДП
+    - [запись](https://youtu.be/a0C0Abwgu_A)
 
 # Программа
+
+- 06.02. MST и повторение DSU
+    - [лекция](https://youtu.be/n4YTYuvaI3Q) от Паши Маврина по DSU
+    - [лекция](https://youtu.be/aKSyWOwl9cQ) от Паши Маврина по минимальным остовам
+    - [запись нашей лекции](https://youtu.be/uEaUmw0sDgo) по DSU
+    - [запись нашей лекции](https://youtu.be/r6Vv0oBHIHg) по минимальным остовам
+    - wiki-конспекты:
+        - [DSU, идея](http://neerc.ifmo.ru/wiki/index.php?title=СНМ_(наивные_реализации))
+        - [DSU, быстрая реализация](http://neerc.ifmo.ru/wiki/index.php?title=СНМ_(реализация_с_помощью_леса_корневых_деревьев))
+        - [алгоритм Краскала](https://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Краскала)
+        - [алгоритм Прима](https://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Прима)
+    - [e-maxx (DSU)](https://e-maxx.ru/algo/dsu)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/319214)
+
+- 27.02. Повторение
+    - [запись нашей лекции](https://youtu.be/oiYb5_yKqYI)
+    - [тренировочная олимпиада](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/318324)
+        - **обратите внимание**, что теперь можно (и нужно) решать на неполный балл то, что не решается на полный
+
+- 20.02. Суффиксный массив
+    - [лекция](https://youtu.be/zxX9UlNXiSs) от Паши Маврина
+    - [запись нашей лекции](https://youtu.be/NLQHRGykTL4) &ndash; лучше смотрите Пашу, честно
+    - wiki-конспекты:
+        - [цифровая сортировка суффиксов](https://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_цифровой_сортировки_суффиксов_циклической_строки)
+        - [суффиксный массив (основная информация)](https://neerc.ifmo.ru/wiki/index.php?title=Суффиксный_массив)
+        - [упрощенный алгоритм](https://neerc.ifmo.ru/wiki/index.php?title=Построение_суффиксного_массива_с_помощью_стандартных_методов_сортировки)
+        - [алгоритм Касаи (быстрый алгоритм)](https://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Касаи_и_др.)
+    - что еще почитать:
+        - [статья](https://habr.com/ru/post/115346/) на Хабре
+        - [объяснение](https://codeforces.com/blog/entry/66540) в блоге на CF
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/317278)
 
 - 06.02 и 13.02. Базовые алгоритмы на строках
     - [лекция](https://youtu.be/bH45DuZjBWw) от Паши Маврина по хешам и префикс-функции

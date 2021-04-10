@@ -41,8 +41,58 @@
     
 - 20.02. Разбор какого-то количества ДП
     - [запись](https://youtu.be/a0C0Abwgu_A)
+    
+- 20.03. Разбор Новогоднего контеста
+    - [запись](https://youtu.be/rn0Df-fnvog)
+    
+- 27.03. Разбор пары задач из геометрии
+    - [запись](https://youtu.be/8CKNTtdEytI)
 
 # Программа
+
+- 03.04. Небольшое повторение
+    - [тест](https://forms.gle/YePEPj39BBBfJQ2m6)
+    - [запись](https://youtu.be/koPMpQCuinI)
+
+- 27.03. Продолжение геометрии, выпуклые оболочки
+    - [запись нашей лекции](https://youtu.be/8CKNTtdEytI) часть 1
+    - [запись нашей лекции](https://youtu.be/7vmrdH5w7VU) часть 2 (выпуклые оболочки)
+    - e-maxx:
+        - [пересечение окружности и прямой](https://e-maxx.ru/algo/circle_line_intersection)
+        - [пересечение двух окружностей](https://e-maxx.ru/algo/circles_intersection)
+        - [выпуклая оболочка Грэхэма](https://e-maxx.ru/algo/convex_hull_graham)
+        - [принадлежность точек многоугольнику](https://e-maxx.ru/algo/pt_in_polygon)
+    - wiki-конспекты:
+        - [выпуклые оболочки](https://neerc.ifmo.ru/wiki/index.php?title=Статические_выпуклые_оболочки:_Джарвис,_Грэхем,_Эндрю,_Чен,_QuickHull)
+    - для общего развития:
+        - больше геометрических алгоритмов на e-maxx: [ссылка](https://e-maxx.ru/algo/), раздел "Геометрия"
+        - больше геометрических алгоритмов на neerc wiki: [ссылка](https://neerc.ifmo.ru/wiki/index.php?title=Вычислительная_геометрия)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/321046)
+
+- 20.03. Геометрические примитивы
+    - [запись нашей лекции](https://youtu.be/Mnnv-1OIg8w)
+    - e-maxx:
+        - [знаковая площадь треугольника](https://e-maxx.ru/algo/oriented_area)
+        - [проверка отрезков на пересечение](https://e-maxx.ru/algo/segments_intersection_checking)
+        - [уравнение прямой по отрезку](https://e-maxx.ru/algo/segment_to_line)
+        - [пересечение прямых](https://e-maxx.ru/algo/lines_intersection)
+        - [пересечение отрезков](https://e-maxx.ru/algo/segments_intersection)
+        - [площадь многоугольника](https://e-maxx.ru/algo/polygon_area)
+        - [центры тяжести](https://e-maxx.ru/algo/gravity_center)
+    - [пример геометрического темплейта на C](https://github.com/jaehyunp/stanfordacm/blob/master/code/Geometry.cc)
+    - [пример геометрического темплейта на C++](resources/Geometry.cpp) с прошлого года
+    - [запись в блоге на CF](https://codeforces.com/blog/entry/48122)
+    - [контест](https://itmobx.contest.codeforces.com/group/7CxanISe1r/contest/321046)
+
+- 13.03. Парсеры. Нисходящий разбор
+    - полезные ссылки:
+        - [antlr](https://www.antlr.org/) &ndash; генератор парсеров
+        - [примеры грамматик](https://github.com/antlr/grammars-v4) для него
+        - [алгоритм](https://ru.wikipedia.org/wiki/Алгоритм_сортировочной_станции)
+    - Гришин [репозиторий](https://github.com/grifguitar/translation-methods) с генератором трансляторов _без кодгенерации_:
+        - [примеры грамматик](https://github.com/grifguitar/translation-methods/tree/main/task4/src/main/java)
+    - Данин [репозиторий](https://github.com/doreshnikov/translation-methods) с генератором трансляторов _на основе кодгенерации_:
+        - [примеры грамматик](https://github.com/doreshnikov/translation-methods/tree/master/include/translate/examples)
 
 - 06.03. MST и повторение DSU
     - [лекция](https://youtu.be/n4YTYuvaI3Q) от Паши Маврина по DSU
